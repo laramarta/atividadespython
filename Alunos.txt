@@ -1,0 +1,11 @@
+Gustavo, 2.5
+Maria, 8.9
+Kaique, 10.0
+Flora, 7.4
+Millena, 5.5
+Lucas, 1.0
+Sophia, 0.0
+Diogo, 9.0
+Marcos, 7,6
+Camila, 8.1
+Vanessa, 2.5
